@@ -42,6 +42,6 @@ This project analyzes accident data to uncover patterns, trends, and insights th
 This project was completed as part of my data analysis learning journey. Special thanks to **[Your Name]** for guidance.
 
 ## 📬 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Tableau Public:** [Your Tableau Profile](#)
+- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/ahmed-maher-9539891b0/)](#)
+- **Tableau Public:** [[Your Tableau Profile](https://public.tableau.com/app/profile/ahmed.maher4898/viz/projectroadaccident/RoadAccidentDashboard)](#)
 - **GitHub:** [Your GitHub Profile](#)
